@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  
+<title>Notícias da Tecnologia</title>
+<link>https://meusite.com.br/noticias</link>
+<description>As últimas novidades do mundo da tecnologia.</description>
+<language>pt-BR</language>
+<pubDate>Tue, 06 May 2025 21:33:00 -0300</pubDate>
+<lastBuildDate>Tue, 06 May 2025 21:33:00 -0300</lastBuildDate>
+<generator>MeuGeradorDeRSS/1.0</generator>
+
+<item>
+<title>SBT</title>
+<link>http://pfsv.io:80/live/epg/epg/273618.m3u8</link>
+<description>Uma análise completa do mais novo smartphone com recursos inovadores.</description>
+<pubDate>Tue, 06 May 2025 21:00:00 -0300</pubDate>
+<guid isPermaLink="true">https://meusite.com.br/noticias/smartphone-revolucionario</guid>
+<enclosure url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMBdWUcJg1sJSqqbnc4pRH2vuZezVW5k3WA&s" type="image/jpeg" length="45678" />
+</item>
+
+
+</channel>
+</rss>
