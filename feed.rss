@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Roku-Developer-Sample-Feed</title>
+    <link />
+    <description>Feed on video content for testing channel applications built on the Roku developer platform</description>
+    <language>en-us</language>
+    <pubDate>Wed, 11 Nov 2015 20:30:54 GMT</pubDate>
+    <image>
+      <title>Roku-Developer-Sample-Feed</title>
+      <url>http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/channel/1cfd09ab38e54f48be8498e0249f5c83/S9O.600x600.png</url>
+      <width>-1</width>
+      <height>-1</height>
+    </image>
+    <item>
+      <title>SBT</title>
+      <link>http://pfsv.io:80/live/epg/epg/273618.m3u8</link>
+      <description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4">
+        <media:description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</media:description>
+        <media:keywords>episode 21, roku recommends, twitch</media:keywords>
+        <media:thumbnail url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMBdWUcJg1sJSqqbnc4pRH2vuZezVW5k3WA&s" />
+        <media:title>Live Gaming</media:title>
+      </media:content>
+    </item>
+    
+  </channel>
+</rss>
