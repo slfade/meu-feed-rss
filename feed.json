@@ -19,7 +19,7 @@
 			"content": {
 				"duration": 100,
 				"videos": [{
-					"videoType": "MP4",
+					"videoType": "ts",
 					"url": "http://xxip25.top:8080/live/104446609/104446609/164943.ts",
 					"quality": "HD"
 				}],
