@@ -116,7 +116,7 @@
 			"title": "STELLA MODELS",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "Videos highlighting Roku products and features",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BYTk1NGUxOGEtYzAzOS00ZjVjLTlkY2YtOWZhNmYzNDVlOWJkXkEyXkFqcGc@._V1_.jpg",
+			"thumbnail": "https://m.media-amazon.com/images/M/MV5BYTk1NGUxOGEtYzAzOS00ZjVjLTlkY2YtOWZhNmYzNDVlOWJkXkEyXkFqcGc@._V1_QL75_UX500_CR0,230,500,281_.jpg",
 			"genres": [
 				"educational"
 			],
@@ -132,7 +132,7 @@
 							"content": {
 								"dateAdded": "2020-03-06T20:25:52Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "mp4",
 									"url": "http://hubby.bz:80/series/Pdsrv-vods/kb6zityGEg/241907.mp4",
 									"quality": "FHD"
 								}],
