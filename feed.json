@@ -44,8 +44,8 @@
 				"duration": 248,
 				"videos": [{
 					"videoType": "m3u8",
-					"url": "http://pfsv.io:80/live/epg/epg/30179.m3u8",
-					"quality": "HD"
+					"url": "http://pfsv.io:80/live/epg/epg/199660.m3u8",
+					"quality": "FHD"
 				}],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
@@ -69,7 +69,7 @@
 				"videos": [{
 					"videoType": "m3u8",
 					"url": "http://pfsv.io:80/live/epg/epg/58.m3u8",
-					"quality": "HD"
+					"quality": "FHD"
 				}],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
