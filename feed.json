@@ -44,7 +44,7 @@
 				"duration": 248,
 				"videos": [{
 					"videoType": "m3u8",
-					"url": "http://pfsv.io:80/live/epg/epg/30179.ts",
+					"url": "http://pfsv.io:80/live/epg/epg/30179.m3u8",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -52,8 +52,8 @@
 			}
 		},
 		{
-			"longDescription": "Steps for enabling Developer Mode on a Roku device",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
+			"longDescription": "A Record TV, a emissora mais antiga do Brasil, é a segunda maior rede do país, com programação variada que inclui jornalismo, novelas e entretenimento para um público amplo.",
+			"thumbnail": "https://pbs.twimg.com/media/GEtdSX7X0AA9hcm.jpg:large",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
@@ -63,12 +63,12 @@
 			],
 			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
 			"shortDescription": "Steps for enabling Developer Mode on a Roku device",
-			"title": "Enabling Developer Mode",
+			"title": "RECORD FHD",
 			"content": {
 				"duration": 120,
 				"videos": [{
-					"videoType": "DASH",
-					"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
+					"videoType": "m3u8",
+					"url": "http://pfsv.io:80/live/epg/epg/58.m3u8",
 					"quality": "HD"
 				}],
 				"language": "en-us",
