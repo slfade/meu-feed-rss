@@ -2,7 +2,7 @@
 	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"CANAIS ABERTOS: ": [
+	"CANAIS ABERTOS:": [
 	{
 			"longDescription": "A TV Globo é a maior rede de televisão aberta do Brasil, oferecendo uma programação diversificada de notícias, entretenimento e esportes para milhões de brasileiros em todo o país, tanto na TV quanto no streaming Globoplay.",
 			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/96/Apoio_Globo_%282024%29.png/revision/latest?cb=20250503204100.jpeg",
@@ -111,12 +111,12 @@
 			}
 		}
 	],
-	"series": [{
+	"SERIES:": [{
 			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
+			"title": "STELLA MODELS",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "Videos highlighting Roku products and features",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/tips-tricks.jpg",
+			"thumbnail": "https://m.media-amazon.com/images/M/MV5BYTk1NGUxOGEtYzAzOS00ZjVjLTlkY2YtOWZhNmYzNDVlOWJkXkEyXkFqcGc@._V1_.jpg",
 			"genres": [
 				"educational"
 			],
@@ -124,7 +124,7 @@
 				"tips"
 			],
 			"seasons": [{
-					"title": "Season 1",
+					"title": "Temporada 1",
 					"episodes": [{
 							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
 							"title": "How to listen to music",
@@ -132,9 +132,9 @@
 							"content": {
 								"dateAdded": "2020-03-06T20:25:52Z",
 								"videos": [{
-									"videoType": "HLS",
-									"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-									"quality": "HD"
+									"videoType": "MP4",
+									"url": "http://hubby.bz:80/series/Pdsrv-vods/kb6zityGEg/241907.mp4",
+									"quality": "FHD"
 								}],
 								"duration": 187,
 								"captions": [{
