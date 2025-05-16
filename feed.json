@@ -132,7 +132,7 @@
 							"content": {
 								"dateAdded": "2020-03-06T20:25:52Z",
 								"videos": [{
-									"videoType": "mp4",
+									"videoType": "HLS",
 									"url": "http://hubby.bz:80/series/Pdsrv-vods/kb6zityGEg/241907.mp4",
 									"quality": "FHD"
 								}],
@@ -168,7 +168,7 @@
 							"content": {
 								"dateAdded": "2020-02-04T19:08:55Z",
 								"videos": [{
-									"videoType": "mp4",
+									"videoType": "HLS",
 									"url": "http://hubby.bz:80/series/Pdsrv-vods/kb6zityGEg/241908.mp4",
 									"quality": "HD"
 								}],
